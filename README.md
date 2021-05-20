@@ -1,1 +1,3 @@
-# project-records
+# Project records
+
+## Meeting minutes
