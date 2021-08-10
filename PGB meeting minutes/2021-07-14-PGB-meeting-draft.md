@@ -20,7 +20,7 @@ _This draft needs to be approved by the PGB_
 	* A poll for approving the charter for the Advisory Council was sent out a week ago. Ballot will close at midnight UTC, today, but ballot has already passed. The AC charter is approved. The AC will be set up to facilitate exchange between trade policy makers and industry.
 
 * UBL syntax deliverables
-	* Todd reports from his call with Ken Holman (?) from the UBL TC. He wants to invite Ken to the next PGB call. There are no objections. Cross-project collaboration is the goal.
+	* Todd reports from his call with Kenneth Bengtsson Holman from the UBL TC. He wants to invite Ken to the next PGB call. There are no objections. Cross-project collaboration is the goal.
 
 * Sriram:  Mining and Minerals+ESG Working Group Formation
 	* [Lisa McAuley joins and briefly introduces herself. Her organization is set up to harmonize trade facilitation standards.]
