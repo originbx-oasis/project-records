@@ -1,6 +1,6 @@
-# OriginBX Open Project PGB minutes (draft)
+# OriginBX Open Project PGB minutes
 
-_This draft needs to be approved by the PGB_
+_Minutes approved at August 11 2021 meeting_
 
 ## Date: 14 July 2021
 
