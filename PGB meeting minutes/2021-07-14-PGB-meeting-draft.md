@@ -1,7 +1,5 @@
 # OriginBX Open Project PGB minutes (draft)
 
-_This draft needs to be approved by the PGB_
-
 ## Date: 14 July 2021
 
 **Participants:** Todd R. Smith (KYG Trade, Chair) , Srinivasan Sriram (Skuchain), Chris Rubio (UPS), Oswald Kuyler (ICC), Ken Montgomery (CompTIA), Thomas Fahey (Accenture), Brian Staples (Origin Experts Group), Lisa McAuley (GTPA)
