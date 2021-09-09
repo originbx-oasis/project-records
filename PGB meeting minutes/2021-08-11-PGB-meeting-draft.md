@@ -1,8 +1,6 @@
 # OriginBX Open Project PGB minutes (draft)
 
-_This draft needs to be approved by the PGB._
-
-## Date:  11 August 2021
+## Date: 11 August 2021
 
 **Participants:** Todd R. Smith (KYG Trade, Chair) , Srinivasan Sriram (Skuchain), Ken Montgomery (CompTIA), Brian Staples (Origin Experts Group). 
 **Guests:** Kenneth Bengtsson (UBL TC), Chet Ensign (OASIS)
